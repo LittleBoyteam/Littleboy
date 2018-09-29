@@ -18,6 +18,8 @@ public class PlayerControl : MonoBehaviour {
 	void Update () {
 
 		//rayCastWall ();
+
+
 		MainController ();
 	}
 
